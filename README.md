@@ -19,6 +19,7 @@ Run the program in the vscode, in the terminal type the following commands.
 end the program
 
 ## PROGRAM:
+```
 #Developed by: Rathish kumar C
 #Reference no: 22009283
 import sys
@@ -33,6 +34,7 @@ with open(a,'r') as f:
                 count[word]+=1
 print(count)
 f.close()
+```
 
 ### OUTPUT:
 
